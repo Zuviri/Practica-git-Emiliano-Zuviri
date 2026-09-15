@@ -1,2 +1,3 @@
 Aprendiendo a hacer el repositorio de git hub 
 Este archivo fue modificado en git hub
+Este archivo fue modificado desde repositorio local 
